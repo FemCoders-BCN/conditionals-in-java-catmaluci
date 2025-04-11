@@ -65,7 +65,7 @@ public class Quiz {
         System.out.println("\td. Inventora del sistema de comunicaciones de salto de frecuencia, base del wifi, bluetooth y GPS");
         System.out.print("\033[0m");
         String answer3 = scanner.nextLine();
-        if (answer3.equals("b d")) { 
+        if (answer3.equals("bd")) { 
                 score += 5;
             }
             
